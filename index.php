@@ -1,2 +1,2 @@
 <?php
-echo 'my first github';
+echo 'first github';
