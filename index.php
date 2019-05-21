@@ -1,2 +1,2 @@
 <?php
-ehco'here';
+phpinfo();
